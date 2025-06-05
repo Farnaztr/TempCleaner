@@ -21,3 +21,8 @@ This batch script is a simple Windows tool to:
   - You run the script with admin rights.
 - `wmic` is deprecated. This script uses PowerShell as a modern alternative to show disk usage.
 
+## Let's Connect
+
+- Email: `farnaztarabi@gmail.com`
+- Telegram: 'https://t.me/CodeMatrixx'
+- YouTube: 'https://www.youtube.com/@here-bitzone'
