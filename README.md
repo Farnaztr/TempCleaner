@@ -19,7 +19,6 @@ This batch script is a simple Windows tool to:
 - If `Clear-RecycleBin` fails, make sure:
   - PowerShell is installed and updated.
   - You run the script with admin rights.
-- `wmic` is deprecated. This script uses PowerShell as a modern alternative to show disk usage.
 
 ## Let's Connect
 
