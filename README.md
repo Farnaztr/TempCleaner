@@ -6,7 +6,7 @@ This batch script is a simple Windows tool to:
 - Empty the Recycle Bin.
 - Display available disk space using PowerShell.
 
-<img src="https://img.shields.io/badge/Author-farnaztr-red" />    <img src="https://img.shields.io/badge/Project-TempCleaner-black" />   <img src="https://img.shields.io/github/stars/farnaztr/TempCleaner?style=social" />
+  <img src="https://img.shields.io/badge/Author-farnaztr-red" />    <img src="https://img.shields.io/badge/Project-TempCleaner-black" />   <img src="https://img.shields.io/github/stars/farnaztr/TempCleaner?style=social" />
 
 ---
 
