@@ -6,13 +6,13 @@ This batch script is a simple Windows tool to:
 - Empty the Recycle Bin.
 - Display available disk space using PowerShell.
 
-     <img src="https://img.shields.io/badge/Author-farnaztr-red" />    <img src="https://img.shields.io/badge/Project-TempCleaner-black" />   <img src="https://img.shields.io/github/stars/farnaztr/TempCleaner?style=social" />
+<img src="https://img.shields.io/badge/Author-farnaztr-red" />    <img src="https://img.shields.io/badge/Project-TempCleaner-black" />   <img src="https://img.shields.io/github/stars/farnaztr/TempCleaner?style=social" />
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
-1. Copy the code into a file and save it as `tempcleaner.bat`.
+1. Copy the code into a file and save it as `tempcleaning.bat`.
 2. Right-click the file and choose **"Run as administrator"**.
    > Recycle Bin cleanup and system temp folder removal require admin privileges.
 
