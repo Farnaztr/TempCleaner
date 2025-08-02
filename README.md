@@ -5,6 +5,10 @@ This batch script is a simple Windows tool to:
 - Empty the Recycle Bin.
 - Display available disk space using PowerShell.
 
+   <img src="https://img.shields.io/badge/Author-farnaztr-darkred" />
+  <img src="https://img.shields.io/badge/Project-TempCleaner-black" />
+  <img src="https://img.shields.io/github/stars/farnaztr/TempCleaner?style=social" />
+
 ---
 
 ## 🚀 How to Run
@@ -20,8 +24,3 @@ This batch script is a simple Windows tool to:
   - PowerShell is installed and updated.
   - You run the script with admin rights.
 
-## Let's Connect
-
-- Email: `farnaztarabi@gmail.com`
-- Telegram: 'https://t.me/CodeMatrixx'
-- YouTube: 'https://www.youtube.com/@here-bitzone'
