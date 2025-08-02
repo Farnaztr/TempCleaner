@@ -1,8 +1,6 @@
 # TempCleaner Batch Script 
 
-   <img src="https://img.shields.io/badge/Author-farnaztr-darkred" />    <img src="https://img.shields.io/badge/Project-TempCleaner-black" />   <img src="https://img.shields.io/github/stars/farnaztr/TempCleaner?style=social" />
-
-
+   <img src="https://img.shields.io/badge/Author-farnaztr-red" />    <img src="https://img.shields.io/badge/Project-TempCleaner-black" />   <img src="https://img.shields.io/github/stars/farnaztr/TempCleaner?style=social" />
 
 This batch script is a simple Windows tool to:
 - Delete temporary files from the user and system folders.
