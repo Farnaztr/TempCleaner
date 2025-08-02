@@ -1,12 +1,13 @@
 # TempCleaner Batch Script 
 
+<img src="https://img.shields.io/badge/Author-farnaztr-red" />    <img src="https://img.shields.io/badge/Project-TempCleaner-black" />   <img src="https://img.shields.io/github/stars/farnaztr/TempCleaner?style=social" />
 
 This batch script is a simple Windows tool to:
 - Delete temporary files from the user and system folders.
 - Empty the Recycle Bin.
 - Display available disk space using PowerShell.
 
-<img src="https://img.shields.io/badge/Author-farnaztr-red" />    <img src="https://img.shields.io/badge/Project-TempCleaner-black" />   <img src="https://img.shields.io/github/stars/farnaztr/TempCleaner?style=social" />
+
 
 ---
 
