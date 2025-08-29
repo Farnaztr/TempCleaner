@@ -7,8 +7,6 @@ This batch script is a simple Windows tool to:
 - Empty the Recycle Bin.
 - Display available disk space using PowerShell.
 
-
-
 ---
 
 ##  How to Run
